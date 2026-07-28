@@ -1,8 +1,8 @@
 # Hi, I'm Anjali Nayak 👋
 
-## 📊 Aspiring Data Analyst
+##  Aspiring Data Analyst
 
-🎓 BCA Graduate
+ BCA Graduate
 
 🌱 Currently learning:
 - Python
@@ -11,7 +11,7 @@
 - Power BI
 - Git & GitHub
 
-## 🛠️ Skills
+##  Skills
 - Python
 - SQL
 - Excel
@@ -19,7 +19,7 @@
 - Git
 - GitHub
 
-## 🎯 Career Goal
+##  Career Goal
 To become a Data Analyst and build impactful data-driven solutions.
 
 ## 📫 Connect with me
