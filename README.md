@@ -1,4 +1,29 @@
-## Hi there 👋
+# Hi, I'm Anjali Nayak 👋
+
+## 📊 Aspiring Data Analyst
+
+🎓 BCA Graduate
+
+🌱 Currently learning:
+- Python
+- SQL
+- Excel
+- Power BI
+- Git & GitHub
+
+## 🛠️ Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Git
+- GitHub
+
+## 🎯 Career Goal
+To become a Data Analyst and build impactful data-driven solutions.
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/anjali-nayak-bb5502387
 
 <!--
 **anjalinayak23/anjalinayak23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
