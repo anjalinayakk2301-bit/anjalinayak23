@@ -1,29 +1,37 @@
-# Hi, I'm Anjali Nayak 👋
 
-##  Aspiring Data Analyst
+# Hi, I'm Anjali Nayak 
 
- BCA Graduate
+## About Me
+I'm an aspiring Data Analyst passionate about working with data, uncovering
+meaningful insights, and using them to support smarter business decisions.
 
-🌱 Currently learning:
-- Python
-- SQL
-- Excel
+I'm currently building my skills through hands-on projects using real-world
+datasets, with the goal of starting my career as a Data Analyst Trainee.
+
+## Skills
+- **Excel** — Data cleaning, formulas, Pivot Tables, charts
+- **SQL** — Queries, filtering, joins, aggregations
+- **Python** — Pandas, NumPy, Matplotlib
+- **Data Analysis** — Data cleaning, exploratory data analysis (EDA), visualization
+
+## Currently Learning
+- Advanced SQL (window functions, subqueries)
+- Python for Data Analysis
 - Power BI
-- Git & GitHub
+- Statistics for Data Analysis
 
-##  Skills
-- Python
-- SQL
-- Excel
-- Power BI
-- Git
-- GitHub
+## Projects
+| Project | Tools Used |
+|---|---|
+| [Airbnb Data Analysis](#) | Python, Pandas, Matplotlib |
 
-##  Career Goal
-To become a Data Analyst and build impactful data-driven solutions.
+## Career Goal
+I'm looking to start my career as a **Data Analyst / Data Analyst Trainee**,
+where I can apply my skills to real business problems and keep growing.
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/anjali-nayak-bb5502387
+## Let's Connect
+- 💼 LinkedIn: [your-linkedin-url]
+- 📧 Email: your.email@gmail.com
 
 <!--
 **anjalinayak23/anjalinayak23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
